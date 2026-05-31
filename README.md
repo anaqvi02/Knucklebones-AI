@@ -1,4 +1,4 @@
-# God of Knucklebones
+# Knucklebones-AI
 
 A Python implementation of Knucklebones, the dice game from *Cult of the Lamb*, with an AI opponent using Monte Carlo Tree Search.
 
